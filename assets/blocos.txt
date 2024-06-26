@@ -1,0 +1,6 @@
+GOLD;1;assets/bloco_amarelo.png
+DIAMOND;1;assets/bloco_azul.png
+SILVER;2;assets/bloco_cinzento.png
+AMETHYST;2;assets/bloco_roxo.png
+EMERALD;3;assets/bloco_verde.png
+RUBY;3;assets/bloco_vermelho.png
